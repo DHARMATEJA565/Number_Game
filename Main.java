@@ -144,7 +144,7 @@ class Main extends JFrame
             		}
             	else
             	{
-            		trylabel.setText("Your guess is correct, You win!!");
+            		trylabel.setText("You win and Your score is !!"+(bestScore = 150 - count*10));
             		if(count==1)
             		{
             			bestScore=150;
