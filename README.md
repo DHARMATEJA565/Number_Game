@@ -30,8 +30,4 @@ Welcome to the Number Game project! This Java-based game allows players to guess
 
 ## Enjoy Guessing the Number!
 
-Feel free to explore and modify the code as per your preferences. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
----
-
-This README should provide users with the necessary information to understand and play your Number Game effectively.
+Feel free to explore and modify the code as per your preferences. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request. 
